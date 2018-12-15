@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/adomoshe/Bamazon/issues"
   },
-  "homepage": "https://github.com/adomoshe/Bamazon#readme"
+  "homepage": "https://github.com/adomoshe/Bamazon#readme",
+  "dependencies": {
+    "inquirer": "^6.2.1",
+    "mysql": "^2.16.0"
+  }
 }
